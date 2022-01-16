@@ -1,2 +1,2 @@
 # abdel-oued.github.io
-My personnal website
+My personal website
